@@ -1,0 +1,149 @@
+village;zone;caste;pathway;gender;age;proprety;nb_room;nb_bed;w_linked;centrale;w_source;score_w_equip;score_e_equip
+Thame;Khumbu;Sherpa;5;female;45-59;Propriétaire;9;9;Oui;Khumbu Bijuli Electricity;Tchhuchembo;4;7
+Thame;Khumbu;Sherpa;1;female;45-59;Propriétaire;27;55;Oui;Khumbu Bijuli Electricity;Chhumutse;4;16
+Thame;Khumbu;Rai;1;female;15-29;Locataire;13;24;Oui;Khumbu Bijuli Electricity;Chhumutse;4;10
+Thame;Khumbu;Sherpa;1;male;45-59;Locataire;8;14;Oui;Khumbu Bijuli Electricity;;4;14
+Thame;Khumbu;Sherpa;1;female;45-59;Propriétaire;8;16;Oui;Khumbu Bijuli Electricity;Chhumutse;4;13
+Thame;Khumbu;Sherpa;1;male;30-44;Propriétaire;8;16;Oui;Khumbu Bijuli Electricity;Chhumutse;4;12
+Thamo;Khumbu;Sherpa;1;male;45-59;Propriétaire;8;16;Oui;Khumbu Bijuli Electricity;;4;9
+Thamo;Khumbu;Sherpa;1;female;45-59;Propriétaire;9;18;Oui;Khumbu Bijuli Electricity;Thamoteng;4;9
+Thamo;Khumbu;Sherpa;1;female;45-59;Propriétaire;5;9;Oui;Khumbu Bijuli Electricity;Thamoteng;3;12
+Mende;Khumbu;Tamang;5;male;45-59;Locataire;20;40;Oui;Khumbu Bijuli Electricity;Gendukpa;4;14
+Kharikhola;Solu;Magar;1;;;Propriétaire;10;20;Oui;Kharikhola Old Plant;Helku Khola;4;2
+Khunde;Khumbu;Sherpa;1;female;45-59;Propriétaire;8;16;Non;Khumbu Bijuli Electricity;Les 3 sources;0;9
+Khunde;Khumbu;Sherpa;1;male;45-59;Propriétaire;6;12;;Khumbu Bijuli Electricity;Menkhang Chhuwa;4;7
+Kharikhola;Solu;Sherpa;1;;;Propriétaire;9;24;Oui;Kharikhola Old Plant;Ghatte Khola_Sikli khola;4;2
+Kharikhola;Solu;Magar;1;;;Propriétaire;4;8;Oui;Kharikhola Old Plant;Ghatte Khola_Sikli khola;4;2
+Namche;Khumbu;Rai;2;male;15-29;Locataire;26;52;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;10
+Namche;Khumbu;Sherpa;1;male;45-59;Propriétaire;22;44;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;10
+Namche;Khumbu;Sherpa;;female;60plus;Propriétaire;5;10;Oui;Khumbu Bijuli Electricity;Namche kane;3;4
+Namche;Khumbu;Magar;;male;30-44;Locataire;31;66;Oui;Khumbu Bijuli Electricity;;3;9
+Namche;Khumbu;Sherpa;2;female;30-44;Propriétaire;12;22;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;9
+Namche;Khumbu;Sherpa;2;male;30-44;Propriétaire;22;44;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;18
+Kharikhola;Solu;Magar;1;;;Locataire;11;22;Oui;Kharikhola Old Plant;Chilu khola_ockar bon;3;3
+Namche;Khumbu;Sherpa;;male;30-44;Propriétaire;16;32;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;3;11
+Namche;Khumbu;Sherpa;;male;60plus;Propriétaire;8;17;Oui;Khumbu Bijuli Electricity;Namche kane;3;11
+Tok Tok;Pharak;Rai;1;;;Propriétaire;5;10;Oui;Tok Tok Plant;khola No name;3;6
+Tok Tok;Pharak;Sherpa;1;;;Propriétaire;13;26;Oui;Tok Tok Plant;khola No name;3;2
+Namche;Khumbu;Sherpa;;female;45-59;Propriétaire;40;80;Oui;Khumbu Bijuli Electricity;Namche kane;3;13
+Namche;Khumbu;Magar;;male;30-44;Locataire;18;36;Oui;Khumbu Bijuli Electricity;Namche kane;3;8
+Kharikhola;Solu;Sherpa;1;;;Propriétaire;8;24;Oui;Kharikhola Old Plant;Ghatte Khola_Sikli khola;4;2
+Namche;Khumbu;Sherpa;2;female;15-29;Locataire;13;26;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;11
+Namche;Khumbu;Sherpa;;male;45-59;Propriétaire;20;48;Oui;Khumbu Bijuli Electricity;Namche kane;3;12
+Namche;Khumbu;Sherpa;2;female;45-59;Propriétaire;17;30;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;5;12
+Namche;Khumbu;Sherpa;;male;30-44;Propriétaire;43;76;Oui;Khumbu Bijuli Electricity;Namche kane;3;14
+Namche;Khumbu;Magar;;male;15-29;Locataire;12;28;Oui;Khumbu Bijuli Electricity;Namche kane;3;7
+Namche;Khumbu;Sherpa;;female;30-44;Propriétaire;6;16;Oui;Khumbu Bijuli Electricity;Namche kane;3;10
+Namche;Khumbu;Sherpa;1;male;30-44;Propriétaire;27;54;Oui;Khumbu Bijuli Electricity;Namche kane;4;13
+Namche;Khumbu;Tamang;1;male;15-29;Propriétaire;35;72;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;15
+Namche;Khumbu;Tamang;1;male;30-44;Locataire;14;31;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;9
+Namche;Khumbu;;;male;30-44;Locataire;27;60;Oui;Khumbu Bijuli Electricity;Namche kane;4;10
+Namche;Khumbu;Tamang;3;male;30-44;Locataire;32;64;Oui;Khumbu Bijuli Electricity;Namche kane;4;9
+Namche;Khumbu;Sherpa;1;male;60plus;Propriétaire;18;34;Oui;Khumbu Bijuli Electricity;Namche kane;4;9
+Namche;Khumbu;Sherpa;1;male;30-44;Propriétaire;16;32;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;18
+Namche;Khumbu;Sherpa;2;female;60plus;Propriétaire;13;25;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;12
+Namche;Khumbu;Sherpa;1;female;60plus;Locataire;14;28;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;13
+Namche;Khumbu;Sherpa;5;male;60plus;Propriétaire;11;22;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;4
+Namche;Khumbu;Newar;1;female;15-29;Locataire;30;60;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;14
+Namche;Khumbu;Tamang;1;male;15-29;Locataire;27;57;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;16
+Namche;Khumbu;Sherpa;2;male;45-59;Propriétaire;20;35;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;15
+Namche;Khumbu;Sherpa;2;male;45-59;Propriétaire;27;54;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;17
+Namche;Khumbu;Sherpa;1;male;45-59;Propriétaire;25;50;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;15
+Namche;Khumbu;Sherpa;2;male;30-44;Propriétaire;16;24;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;14
+Namche;Khumbu;Sherpa;2;male;45-59;Propriétaire;15;28;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;21
+Namche;Khumbu;Tamang;1;male;15-29;Locataire;15;28;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;7
+Rangding;Pharak;Sherpa;2;;;Propriétaire;30;60;Oui;Tok Tok Plant;Ghatte Khola;3;9
+Namche;Khumbu;Sherpa;2;female;30-44;Propriétaire;17;34;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;15
+Namche;Khumbu;Sherpa;1;male;45-59;Propriétaire;27;47;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;16
+Namche;Khumbu;Sherpa;2;female;30-44;Propriétaire;20;38;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;16
+Phakding;Pharak;Magar;1;;;Locataire;18;36;Oui;Chuserma Plant;Phakding Khola;3;7
+Phakding;Pharak;Sherpa;1;;;Propriétaire;28;63;Oui;Chuserma Plant;Phakding Khola;3;11
+Namche;Khumbu;Sherpa;1;male;60plus;Propriétaire;35;70;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;19
+Tok Tok;Pharak;Sherpa;1;;;Propriétaire;20;35;Oui;Tok Tok Plant;khola No name;3;8
+Phakding;Pharak;Sherpa;1;;;Locataire;10;20;Oui;Tok Tok Plant;Phakding Khola;2;4
+Phakding;Pharak;Sherpa;1;;;Locataire;32;36;Oui;Chuserma Plant;Phakding Khola;3;12
+Phakding;Pharak;Sherpa;1;;;Propriétaire;29;53;Oui;Chuserma Plant;Phakding Khola;3;10
+Namche;Khumbu;Bahun-Chetri;1;male;30-44;Locataire;20;40;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;17
+Rangding;Pharak;Sherpa;1;;;Propriétaire;7;13;Oui;Tok Tok Plant;Ghatte Khola;2;5
+Namche;Khumbu;Tamang;1;male;30-44;Locataire;5;10;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;7
+Kharikhola;Solu;Magar;1;;;Propriétaire;5;10;Oui;Kharikhola Old Plant;Gahiri Muhan;3;2
+Namche;Khumbu;Sherpa;2;female;45-59;Propriétaire;12;24;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;9
+Namche;Khumbu;Sherpa;1;male;45-59;Locataire;8;15;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;7
+Phakding;Pharak;Sherpa;1;;;Propriétaire;2;13;Oui;;;3;11
+Thade Koshi;Pharak;Sherpa;1;;;Propriétaire;12;24;Oui;Thado Koshi Plant;Thade Koshi;3;8
+Ghat;Pharak;Sherpa;1;;;Propriétaire;8;16;Oui;Thado Koshi Plant;Thade Koshi Chutawa Khola;3;4
+Namche;Khumbu;Sherpa;2;female;45-59;Propriétaire;35;70;Oui;Khumbu Bijuli Electricity;Namche Khane pani Sanshthan;4;10
+Thade Koshi;Pharak;Sherpa;1;;;Propriétaire;8;16;Oui;Thado Koshi Plant;Thade Koshi;3;8
+Benkar;Pharak;Sherpa;;;;Locataire;15;30;Oui;Monjo plant;Thamserku Khola;4;8
+Monjo;Pharak;Sherpa;1;;;Locataire;11;22;Oui;Monjo Plant;Monjo Khola;3;12
+Monjo;Pharak;Rai;1;;;Propriétaire;7;14;Oui;Monjo Plant;Intrek hotel;4;6
+Monjo;Pharak;Sherpa;1;;;Propriétaire;25;50;Oui;Summit Home Electric Systems;Kongde khola;4;17
+Monjo;Pharak;Sherpa;1;;;Propriétaire;30;60;Oui;Monjo Plant;Kongde khola;4;9
+Monjo;Pharak;Sherpa;1;;;Propriétaire;12;22;Oui;Monjo Plant;Monjo Khola;3;7
+Chumua;Pharak;Sherpa;;;;Propriétaire;5;10;Oui;Monjo plant;Chutum Buk;4;7
+Tok tok;Pharak;Rai;1;female;15-29;Locataire;6;10;Oui;;khola No name;2;7
+Lukla;Pharak;Sherpa;1;male;15-29;Propriétaire;6;11;Oui;Bom Khola Electricity;Lukla water project;4;8
+Lukla;Pharak;Sherpa;1;female;15-29;Locataire;8;16;Oui;Bom Khola Electricity;;3;8
+Phakding;Pharak;Newar;1;female;15-29;Locataire;10;20;Oui;Chuserma Plant;Phakding Khola;3;3
+Lukla;Pharak;Rai;1;;;Locataire;20;40;Oui;Bom Khola Electricity;Lukla water project;4;12
+Lukla;Pharak;Tamang;1;female;30-44;Propriétaire;4;8;Oui;;;4;5
+Lukla;Pharak;Tamang;1;female;30-44;Propriétaire;4;8;Oui;Bom Khola Electricity;;4;5
+Lukla;Pharak;Newar;1;male;45-59;Locataire;4;8;Oui;Bom Khola Electricity;Lukla water project;4;5
+Lukla;Pharak;Sherpa;2;female;15-29;Propriétaire;10;20;Oui;Bom Khola Electricity;Lukla water project;4;9
+Lukla;Pharak;Sherpa;2;male;30-44;Locataire;22;50;Oui;Bom Khola Electricity;;4;10
+Lukla;Pharak;Sherpa;1;female;45-59;Propriétaire;15;32;Oui;Bom Khola Electricity;Lukla water project;4;7
+Lukla;Pharak;Sherpa;1;female;45-59;Propriétaire;50;100;Oui;Bom Khola Electricity;;4;12
+Lukla;Pharak;Sherpa;1;female;30-44;Propriétaire;42;84;Oui;Bom Khola Electricity;;4;11
+Lukla;Pharak;Sherpa;1;male;60plus;Propriétaire;12;24;Oui;Bom Khola Electricity;Lukla water project;4;8
+Lukla;Pharak;Sherpa;1;male;30-44;Propriétaire;6;12;Oui;Bom Khola Electricity;Lukla water project;4;11
+Lukla;Pharak;Sherpa;1;female;30-44;Propriétaire;6;15;Oui;Bom Khola Electricity;Lukla water project;4;6
+Lukla;Pharak;Sherpa;1;male;60plus;Propriétaire;18;37;Oui;Bom Khola Electricity;;4;14
+Lukla;Pharak;Sherpa;1;female;45-59;Propriétaire;11;21;Oui;Bom Khola Electricity;Lukla water project;4;6
+Lukla;Pharak;Sherpa;1;female;30-44;Locataire;12;23;Oui;Bom Khola Electricity;Lukla water project;4;8
+Lukla;Pharak;Sherpa;1;female;30-44;Locataire;6;12;Oui;Bom Khola Electricity;;4;6
+Lukla;Pharak;Sherpa;3;female;30-44;Propriétaire;12;22;Oui;Bom Khola Electricity;Lukla water project;4;8
+Lukla;Pharak;Tamang;1;male;45-59;Propriétaire;21;42;Oui;;;4;6
+Lukla;Pharak;Tamang;1;male;45-59;Propriétaire;21;42;Oui;Bom Khola Electricity;Lukla water project;4;12
+Lukla;Pharak;Tamang;1;male;45-59;Propriétaire;3;6;Oui;Bom Khola Electricity;Lukla water project;3;14
+Tok Tok;Pharak;Magar;1;female;30-44;Propriétaire;9;40;Oui;Tok Tok Plant;khola No name;3;5
+Lukla;Pharak;Tamang;1;male;45-59;Propriétaire;3;6;Oui;;;3;4
+Lukla;Pharak;Sherpa;2;male;45-59;Propriétaire;28;56;Oui;Bom Khola Electricity;Lukla water project;4;9
+Lukla;Pharak;Sherpa;1;female;60plus;Propriétaire;28;56;Oui;Bom Khola Electricity;Lukla water project;4;7
+Lukla;Pharak;Tamang;1;male;30-44;Locataire;12;23;Oui;Bom Khola Electricity;Lukla water project;4;9
+Lukla;Pharak;Sherpa;1;male;60plus;Propriétaire;28;57;Oui;Bom Khola Electricity;Lukla water project;4;10
+Monjo;Pharak;Sherpa;2;male;60plus;Propriétaire;20;40;Oui;Monjo Plant;Monjo Khola;3;5
+Lukla;Pharak;Sherpa;1;male;15-29;Locataire;11;24;Oui;Bom Khola Electricity;Lukla water project;4;7
+Monjo;Pharak;Sherpa;1;male;30-44;Locataire;32;66;Oui;Monjo Plant;Monjo Khola;3;8
+Lukla;Pharak;Sherpa;1;female;45-59;Locataire;11;21;Oui;Bom Khola Electricity;Lukla water project;4;6
+Lukla;Pharak;Sherpa;2;female;30-44;Propriétaire;26;50;Oui;Bom Khola Electricity;Lukla water project;4;9
+Rockamba;Pharak;Sherpa;1;female;30-44;Propriétaire;8;16;Oui;Chuserma Plant;Phakding Khola;3;4
+Monjo;Pharak;Sherpa;1;male;15-29;Locataire;17;34;Oui;Monjo Plant;Monjo Khola;3;5
+Lukla;Pharak;Sherpa;1;female;30-44;Propriétaire;22;44;Oui;Bom Khola Electricity;Lukla water project;4;8
+Lukla;Pharak;Magar;1;male;30-44;Locataire;19;43;Oui;Bom Khola Electricity;Lukla water project;4;10
+Benkar;Pharak;Sherpa;1;male;30-44;Locataire;15;30;Oui;Monjo Plant;Benkar Khola;3;6
+Lukla;Pharak;Newar;1;male;30-44;Locataire;17;34;Oui;Bom Khola Electricity;;4;10
+Lukla;Pharak;Sherpa;1;female;60plus;Propriétaire;25;48;Oui;Bom Khola Electricity;Lukla water project;4;10
+Lukla;Pharak;Sherpa;1;male;60plus;Propriétaire;28;60;Oui;Bom Khola Electricity;;4;10
+Phakding;Pharak;Tamang;1;male;60plus;Propriétaire;33;66;Oui;Chuserma Plant;Phakding Khola;3;6
+Benkar;Pharak;Sherpa;1;male;45-59;Propriétaire;11;20;Oui;Monjo Plant;Benkar Khola;3;5
+Lukla;Pharak;Sherpa;1;female;45-59;Propriétaire;36;72;Oui;Bom Khola Electricity;Lukla water project;4;12
+Lukla;Pharak;Sherpa;3;male;45-59;Propriétaire;55;116;Oui;Bom Khola Electricity;Lukla water project;4;10
+Pangom;Solu;Sherpa;3;;;Propriétaire;2;4;Non;Pangom Plant;Systeme collectif Pangom;3;2
+Pangom;Solu;Sherpa;2;;;Propriétaire;10;20;Oui;Pangom Plant;Systeme collectif Pangom;3;4
+Pangom;Solu;Rai;1;;;Locataire;3;6;Non;Pangom Plant;khola No name;2;2
+Tok Tok;Pharak;Sherpa;1;;;Propriétaire;9;18;Oui;Tok Tok Plant;khola No name;2;7
+Phakding;Pharak;Magar;1;;;Propriétaire;15;40;Oui;Chuserma Plant;Phakding Khola;3;7
+Rangding;Pharak;Sherpa;3;;;Locataire;12;26;Oui;Tok Tok Plant;Ghatte Khola;3;2
+Phakding;Pharak;Tamang;1;;;Propriétaire;21;39;Oui;Chuserma Plant;Phakding Khola;3;11
+Phakding;Pharak;Sherpa;1;;;Locataire;13;26;Oui;Chuserma Plant;Phakding Khola;3;8
+Phakding;Pharak;Sherpa;1;;;Locataire;3;12;Oui;Tok Tok Plant;Phakding Khola;2;3
+Thade Koshi;Pharak;Sherpa;1;;;Propriétaire;4;8;Oui;Thado Koshi Plant;Thade Koshi;3;7
+Phakding;Pharak;Sherpa;1;;;Locataire;7;14;Oui;Tok Tok Plant;Phakding Khola;4;3
+Ghat;Pharak;Sherpa;1;male;45-59;Propriétaire;9;18;Oui;Thado Koshi Plant;Thade Koshi Chutawa Khola;2;5
+Bupsa;Solu;Sherpa;1;;;Locataire;10;22;Oui;Kharikhola Old Plant;;4;4
+Monjo;Pharak;Sherpa;1;;;Propriétaire;22;47;Oui;Monjo Plant;Kongde khola;4;6
+Phakding;Pharak;Sherpa;;;;Locataire;2;13;Oui;Chuserma plant;Phakding Khola;3;4
+Phakding;Pharak;Sherpa;1;;;Locataire;13;26;Oui;;;3;2
+Kharikhola;Solu;Sherpa;1;;;Propriétaire;11;33;Oui;Kharikhola Old Plant;Chilu khola_ockar bon;3;3
+Lungden;Khumbu;Sherpa;;male;30-44;;;;Non;;;0;0
+Marlung;Khumbu;Sherpa;;female;30-44;;;;Non;;Umja Khola;0;1
